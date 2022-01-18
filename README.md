@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shadab Qureshi</h1>
-<h3 align="center">A passionate CPC Certified Medical Coder from India</h3>
+<h3 align="center">I am a passionate CPC Certified Medical Coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadabcpc&label=Profile%20views&color=0e75b6&style=flat" alt="shadabcpc" /> </p>
 
