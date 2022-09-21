@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/pharmdynamics" target="blank"><img src="https://img.shields.io/twitter/follow/pharmdynamics?logo=twitter&style=for-the-badge" alt="pharmdynamics" /></a> </p>
 
-- 🔭 I’m currently working on [GeBBS Healthcare Solutions.](https://gebbs.com)
+- 🔭 I’m currently working as Quality Analyst at [GeBBS Healthcare Solutions.](https://gebbs.com)
 
-- 🌱 I’m currently learning **new things in coding field.**
+- 🌱 I’m currently learning **New things in coding field.**
 
 - 👯 I’m looking to collaborate on [Medical Coding Projects.](https://www.aapc.com)
 
